@@ -1,0 +1,125 @@
+{
+  "uid" : "f0c74f0e2d6dc77a",
+  "name" : "正数减正数",
+  "fullName" : "testcases.test_basic_calculate.test_sub.Test_sub#test_sub_case_01",
+  "historyId" : "174fc20b9c7a14374058fe53d244b3ea",
+  "time" : {
+    "start" : 1630789098649,
+    "stop" : 1630789103680,
+    "duration" : 5031
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driverenv",
+    "time" : {
+      "start" : 1630789033467,
+      "stop" : 1630789033467,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "close_app",
+    "time" : {
+      "start" : 1630789081544,
+      "stop" : 1630789081544,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "start_app",
+    "time" : {
+      "start" : 1630789081544,
+      "stop" : 1630789098648,
+      "duration" : 17104
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "close_app::0",
+    "time" : {
+      "start" : 1630789103682,
+      "stop" : 1630789106741,
+      "duration" : 3059
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "[epic]简单计算器"
+  }, {
+    "name" : "feature",
+    "value" : "基础计算模块"
+  }, {
+    "name" : "story",
+    "value" : "减法运算场景"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.test_basic_calculate"
+  }, {
+    "name" : "suite",
+    "value" : "test_sub"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_sub"
+  }, {
+    "name" : "host",
+    "value" : "BF-20200205MLYR"
+  }, {
+    "name" : "thread",
+    "value" : "104832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_basic_calculate.test_sub"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0c74f0e2d6dc77a.json",
+  "parameterValues" : [ ]
+}

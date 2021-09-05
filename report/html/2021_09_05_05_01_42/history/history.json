@@ -1,0 +1,99 @@
+{
+  "6949ec1c66475391855a3bac0c2c7bd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "306fa2b0003f0986",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630789317328,
+        "stop" : 1630789322361,
+        "duration" : 5033
+      }
+    } ]
+  },
+  "2820ca342348b91e585a109ab2e9c1d9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ca67eefcc52cb07",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0.8414709848078965 == 3.0\n  +0.8414709848078965\n  -3.0",
+      "time" : {
+        "start" : 1630789412158,
+        "stop" : 1630789414331,
+        "duration" : 2173
+      }
+    } ]
+  },
+  "174fc20b9c7a14374058fe53d244b3ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33d4b7e592afa047",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630789366455,
+        "stop" : 1630789370995,
+        "duration" : 4540
+      }
+    } ]
+  },
+  "f08f0556c44b018fa983c3687434095d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37b579a62e2e43a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630789341565,
+        "stop" : 1630789347280,
+        "duration" : 5715
+      }
+    } ]
+  },
+  "0b5226778c176dabfa505c0d2dd026a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f87be6fdeff828c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1630789390668,
+        "stop" : 1630789390956,
+        "duration" : 288
+      }
+    } ]
+  }
+}

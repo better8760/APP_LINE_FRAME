@@ -1,0 +1,99 @@
+{
+  "6949ec1c66475391855a3bac0c2c7bd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b69463d3541ccaec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630789047973,
+        "stop" : 1630789052754,
+        "duration" : 4781
+      }
+    } ]
+  },
+  "2820ca342348b91e585a109ab2e9c1d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4cb739d87aa2a51",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Test_cos_function' object has no attribute 'find_element_by_id'",
+      "time" : {
+        "start" : 1630789108924,
+        "stop" : 1630789108924,
+        "duration" : 0
+      }
+    } ]
+  },
+  "174fc20b9c7a14374058fe53d244b3ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0c74f0e2d6dc77a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630789098649,
+        "stop" : 1630789103680,
+        "duration" : 5031
+      }
+    } ]
+  },
+  "f08f0556c44b018fa983c3687434095d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec0830b2c25d29a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630789072818,
+        "stop" : 1630789078568,
+        "duration" : 5750
+      }
+    } ]
+  },
+  "0b5226778c176dabfa505c0d2dd026a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1392ba22ad76a76c",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Test_cos_function' object has no attribute 'find_element_by_id'",
+      "time" : {
+        "start" : 1630789106748,
+        "stop" : 1630789106748,
+        "duration" : 0
+      }
+    } ]
+  }
+}

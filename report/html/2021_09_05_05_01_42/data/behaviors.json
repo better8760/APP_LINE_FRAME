@@ -1,0 +1,98 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "[epic]简单计算器",
+    "children" : [ {
+      "name" : "基础计算模块",
+      "children" : [ {
+        "name" : "加法运算场景",
+        "children" : [ {
+          "name" : "正数和正数相加",
+          "uid" : "306fa2b0003f0986",
+          "parentUid" : "c896e2f0772de26e771a6c115999bb86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1630789317328,
+            "stop" : 1630789322361,
+            "duration" : 5033
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "正数和负数相加",
+          "uid" : "37b579a62e2e43a6",
+          "parentUid" : "c896e2f0772de26e771a6c115999bb86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1630789341565,
+            "stop" : 1630789347280,
+            "duration" : 5715
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c896e2f0772de26e771a6c115999bb86"
+      }, {
+        "name" : "减法运算场景",
+        "children" : [ {
+          "name" : "正数减正数",
+          "uid" : "33d4b7e592afa047",
+          "parentUid" : "d7ad829732058b825d76520a5b404385",
+          "status" : "passed",
+          "time" : {
+            "start" : 1630789366455,
+            "stop" : 1630789370995,
+            "duration" : 4540
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d7ad829732058b825d76520a5b404385"
+      } ],
+      "uid" : "0fb4827b83fd7db9c344a074fb3e0799"
+    }, {
+      "name" : "三角函数计算模块",
+      "children" : [ {
+        "name" : "cos函数运算场景",
+        "children" : [ {
+          "name" : "cos正数",
+          "uid" : "2f87be6fdeff828c",
+          "parentUid" : "f146b691793d71502b2a61da5fec7f34",
+          "status" : "broken",
+          "time" : {
+            "start" : 1630789390668,
+            "stop" : 1630789390956,
+            "duration" : 288
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f146b691793d71502b2a61da5fec7f34"
+      }, {
+        "name" : "sin函数运算场景",
+        "children" : [ {
+          "name" : "sin正数",
+          "uid" : "1ca67eefcc52cb07",
+          "parentUid" : "8397f52f244b5faeb106d306c311e9af",
+          "status" : "failed",
+          "time" : {
+            "start" : 1630789412158,
+            "stop" : 1630789414331,
+            "duration" : 2173
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8397f52f244b5faeb106d306c311e9af"
+      } ],
+      "uid" : "d89ef2605fc75acad2305a4747772f0e"
+    } ],
+    "uid" : "3686d1d0da9fc31d3c4816a3a80b030b"
+  } ]
+}

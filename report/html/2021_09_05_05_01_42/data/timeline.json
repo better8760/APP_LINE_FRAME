@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BF-20200205MLYR",
+    "children" : [ {
+      "name" : "103180-MainThread",
+      "children" : [ {
+        "name" : "正数减正数",
+        "uid" : "33d4b7e592afa047",
+        "parentUid" : "f6c87f39aa787f876aef91483fc7cfc6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630789366455,
+          "stop" : 1630789370995,
+          "duration" : 4540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "正数和正数相加",
+        "uid" : "306fa2b0003f0986",
+        "parentUid" : "f6c87f39aa787f876aef91483fc7cfc6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630789317328,
+          "stop" : 1630789322361,
+          "duration" : 5033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "cos正数",
+        "uid" : "2f87be6fdeff828c",
+        "parentUid" : "f6c87f39aa787f876aef91483fc7cfc6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630789390668,
+          "stop" : 1630789390956,
+          "duration" : 288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "sin正数",
+        "uid" : "1ca67eefcc52cb07",
+        "parentUid" : "f6c87f39aa787f876aef91483fc7cfc6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630789412158,
+          "stop" : 1630789414331,
+          "duration" : 2173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "正数和负数相加",
+        "uid" : "37b579a62e2e43a6",
+        "parentUid" : "f6c87f39aa787f876aef91483fc7cfc6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630789341565,
+          "stop" : 1630789347280,
+          "duration" : 5715
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6c87f39aa787f876aef91483fc7cfc6"
+    } ],
+    "uid" : "a8263975978a4c100037e72c0864b425"
+  } ]
+}
